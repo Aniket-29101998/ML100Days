@@ -1,2 +1,2 @@
-# ML100Days
-100 Days Machine Learning 
+# Machine_Learning
+Machine_Learning_Projects 
